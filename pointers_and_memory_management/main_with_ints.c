@@ -17,6 +17,8 @@ int main(int argc, char const *argv[])
 
     *nums2 = 100;
 
+    *nums1 = 99;
+
     for (int i = 0; i < 5; i++)
     {
         printf("%d ", nums1[i]);
